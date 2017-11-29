@@ -1,0 +1,9 @@
+8
+lemon 3 2
+orange 7 5
+apple 11 9
+peach 17 15
+pear 19 17
+grape 23 21
+pine 29 27
+melon 31 28
